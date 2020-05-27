@@ -1,0 +1,36 @@
+running clean
+'build/lib' does not exist -- can't clean it
+'build/bdist.linux-x86_64' does not exist -- can't clean it
+'build/scripts-3.6' does not exist -- can't clean it
+running sdist
+running egg_info
+creating pyb_project.egg-info
+writing pyb_project.egg-info/PKG-INFO
+writing dependency_links to pyb_project.egg-info/dependency_links.txt
+writing namespace_packages to pyb_project.egg-info/namespace_packages.txt
+writing top-level names to pyb_project.egg-info/top_level.txt
+writing manifest file 'pyb_project.egg-info/SOURCES.txt'
+reading manifest file 'pyb_project.egg-info/SOURCES.txt'
+writing manifest file 'pyb_project.egg-info/SOURCES.txt'
+warning: sdist: standard file not found: should have one of README, README.rst, README.txt, README.md
+
+running check
+warning: Check: missing required meta-data: url
+
+warning: Check: missing meta-data: either (author and author_email) or (maintainer and maintainer_email) must be supplied
+
+creating pyb_project-1.0.dev0
+creating pyb_project-1.0.dev0/pyb_project.egg-info
+copying files to pyb_project-1.0.dev0...
+copying python_helloworld.py -> pyb_project-1.0.dev0
+copying setup.py -> pyb_project-1.0.dev0
+copying pyb_project.egg-info/PKG-INFO -> pyb_project-1.0.dev0/pyb_project.egg-info
+copying pyb_project.egg-info/SOURCES.txt -> pyb_project-1.0.dev0/pyb_project.egg-info
+copying pyb_project.egg-info/dependency_links.txt -> pyb_project-1.0.dev0/pyb_project.egg-info
+copying pyb_project.egg-info/namespace_packages.txt -> pyb_project-1.0.dev0/pyb_project.egg-info
+copying pyb_project.egg-info/top_level.txt -> pyb_project-1.0.dev0/pyb_project.egg-info
+copying pyb_project.egg-info/zip-safe -> pyb_project-1.0.dev0/pyb_project.egg-info
+Writing pyb_project-1.0.dev0/setup.cfg
+creating dist
+Creating tar archive
+removing 'pyb_project-1.0.dev0' (and everything under it)
